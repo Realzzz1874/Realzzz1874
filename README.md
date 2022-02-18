@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Realzzz1874
-- 📫 How to reach me: realzzz1874@gamil.com
+- 📫 How to reach me: realzzz1874@gmail.com
 
 <!--
 **Realzzz1874/Realzzz1874** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
