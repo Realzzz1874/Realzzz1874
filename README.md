@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 [![Realzzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Realzzz1874&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YulietM&theme=react&line_height=40&hide=css"/> </a>
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Realzzz1874&theme=react&line_height=40&hide=css"/> </a>
